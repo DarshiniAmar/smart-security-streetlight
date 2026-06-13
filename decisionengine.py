@@ -2,8 +2,8 @@
 
 # Sensor Inputs
 sos_pressed = True
-person_detected = True
-motion_detected = True
+person_detected = True 
+motion_detected = True 
 sound_detected = False
 
 # Calculate Risk Score
