@@ -1,2 +1,0 @@
-creates Streetlight.txt file 
-varthini
